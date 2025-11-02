@@ -12,6 +12,7 @@ So far I have focused heavily on web technologies, giving me a solid foundation 
 * 🚀 Continuously learning and refining my software development skills.
 * 🐧 Enjoying customizing my Linux setup and Neovim configuration.
 
+<!--
 ---
 
 ### Let's connect:
@@ -19,9 +20,8 @@ So far I have focused heavily on web technologies, giving me a solid foundation 
 * 🌐 Check out my website: [jonasnettside.no](https://jonasnettside.no)
 * 📧 Open to new opportunities! Feel free to reach out.
 
----
+---* 🌐 Check out my website: [jonasnettside.no](https://jonasnettside.no)
 
-<!--
 **JonasThowsen/JonasThowsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
